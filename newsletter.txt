@@ -1,0 +1,36 @@
+		<div id="list-builder"></div>
+        <div id="popup-box">
+            <img src="images/close.jpg" id="popup-close" />
+            <div id="popup-box-content">
+                <h1>Subscribe to our Newsletter</h1>
+                <p>
+                   You will receive updates on new blog posts whenever they are available.
+                </p>
+                <form id="popup-form" action="https://email_list_service_api.com">
+                    <input type="hidden" name="list" value="key_list_etc" />
+                    <input type="text" name="name" placeholder="Full Name" />
+                    <input type="text" name="email" placeholder="Email Address" />
+                    <button type="button" name="subscribe">Subscribe</button>
+                </form>
+            </div>
+        </div>
+
+
+
+
+        <!---listbuilder----!<
+
+        <script src="list-builder.js"></script>
+
+
+
+        /--------footer icons--------------/
+
+        <div class="footer-icons">
+		 
+				<a href="#"><i class="fa fa-facebook"></i></a>
+				<a href="#"><i class="fa fa-twitter"></i></a>
+				<a href="#"><i class="fa fa-linkedin"></i></a>
+				<a href="#"><i class="fa fa-github"></i></a>
+		 
+				</div>

@@ -1925,11 +1925,11 @@ input, select, textarea {
 
 		#header h6 {
 			font-family: 'Arvo';
-			font-weight: 700;
+			font-weight: 600;
 			color: #ed786a;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
-			font-size: 3em;
-			letter-spacing: 13px;
+			font-size: 2em;
+			letter-spacing: 5px;
 			
 	
 		text-transform: uppercase;
@@ -2388,7 +2388,7 @@ footer{
  
 .footer-distributed .footer-company-about{
 	line-height: 20px;
-	color:  #92999f;
+	color:  orange;
 	font-size: 13px;
 	font-weight: normal;
 	margin: 0;
