@@ -1926,14 +1926,21 @@ input, select, textarea {
 		#header h6 {
 			font-family: 'Arvo';
 			font-weight: 600;
-			color: #ed786a;
+			color: orangered;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 			font-size: 2em;
 			letter-spacing: 5px;
-			
-	
-		text-transform: uppercase;
+			text-transform: uppercase;
 		
+		}
+
+		#header h6 a {
+			border-radius: 25px;
+			padding: 2px;
+			border-color: peru;
+			border-style: solid;
+			border-width: 3px;
+
 		}
 
 
