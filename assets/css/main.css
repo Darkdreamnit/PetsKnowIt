@@ -1487,6 +1487,11 @@ input, select, textarea {
 
 /* Image */
 
+img {
+	width: 100%;
+    height: auto;
+}
+
 	.image {
 		-moz-transition: opacity 0.25s ease-in-out;
 		-webkit-transition: opacity 0.25s ease-in-out;
