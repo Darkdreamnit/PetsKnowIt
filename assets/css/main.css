@@ -1972,12 +1972,21 @@ img {
 /* Nav */
 
 	#nav {
+		background-color: gainsboro;
 		position: absolute;
-		top: 3em;
+		top: 1em;
 		left: 0;
 		width: 100%;
 		cursor: default;
+		margin-bottom: 40px;
 	}
+
+	#nav > ul {
+		align-content: center;
+		padding-top: 20px;
+
+	}
+
 
 		#nav > ul > li {
 			display: inline-block;
@@ -2872,6 +2881,8 @@ footer{
 					margin-top: 0;
 				}
 
+
+
 		/* Main */
 
 			#main {
@@ -2916,3 +2927,22 @@ footer{
 				}
 
 	}
+
+
+
+
+
+
+
+
+
+
+
+
+	///////////////////////////////////////////////////////////////
+
+	.catlogo (
+
+	)
+
+	
