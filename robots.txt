@@ -1,0 +1,2 @@
+User-agent: *
+sitemap: https://petsknowit.com/sitemap.xml
