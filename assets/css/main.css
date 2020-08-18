@@ -131,10 +131,19 @@ input, select, textarea {
 	}
 
 	h3 {
+		text-align: center;
 		font-size: 1em;
 		letter-spacing: 2px;
 		margin: 0 0 0.5em 0;
 	}
+
+	h4 {
+		text-align: center;
+		font-size: 1em;
+		letter-spacing: 2px;
+		margin: 0 0 0.5em 0;
+	}
+
 
 	a {
 		-moz-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
