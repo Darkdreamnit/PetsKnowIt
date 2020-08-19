@@ -1937,25 +1937,29 @@ img {
 			box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
 		}
 
-		#header h6 {
+		#header p {
 			font-family: 'Arvo';
 			font-weight: 600;
-			color: orangered;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
-			font-size: 2em;
+			font-size: 1em;
 			letter-spacing: 5px;
 			text-transform: uppercase;
-		
+			text-align: center;
 		}
 
-		#header h6 a {
+		#header p a {
 			border-radius: 25px;
 			padding: 2px;
 			border-color: peru;
 			border-style: solid;
-			border-width: 3px;
+			border-width: 5px;
+			color: orangered;
+			font-size: 2em;
 
 		}
+
+		
+		
 
 
 
@@ -1968,15 +1972,6 @@ img {
 		text-transform: capitalize;
 		}
 
-		#header p {
-			text-transform: uppercase;
-			font-weight: 400;
-			color: #888;
-			margin: 2.5em 0 0 0;
-			font-size: 0.85em;
-			letter-spacing: 3px;
-			text-align: center;
-		}
 
 /* Nav */
 
