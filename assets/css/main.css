@@ -2994,11 +2994,12 @@ a:link {
 
 
   /* Table */
-
-  table { width: 500px; } /* Make table wider */  
+ 
 td, th { border: 1px solid #CCC; } /* Add borders to cells */ 
 
-table {  
+table { 
+	display: block;
+	width: 500px; 
 	align-self: center;
     color: #333;
     font-family: Helvetica, Arial, sans-serif; 
