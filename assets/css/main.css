@@ -3095,3 +3095,13 @@ div.soup p{
 	color: aqua;
 	font-size: 50px;
 }
+
+
+
+.floatleft {
+	float:left;
+	margin: 10px;
+}
+.floatright {
+    float:right;
+}
