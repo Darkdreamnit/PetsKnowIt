@@ -3087,6 +3087,7 @@ div.soup p{
     line-height: 1.5;
 }
 
+
 .acc {
     border-bottom: 1px solid #fff;
 }
@@ -3199,3 +3200,22 @@ div.soup p{
        width: 100%;
     }
  }
+
+
+.column2li ul {
+columns: 2;
+-webkit-columns: 2;
+-moz-columns: 2;
+}
+
+.column2li ul li {
+	
+align-items: center;
+}
+
+
+.column3li ul {
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
+	}
