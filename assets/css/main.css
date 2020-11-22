@@ -242,6 +242,9 @@ input, select, textarea {
 
 		}
 
+
+
+		/******Video iframe*******/
 		@media  (max-width: 657px) {
 			.vid {
 			   width: 100%;
