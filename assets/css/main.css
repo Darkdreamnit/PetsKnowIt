@@ -242,6 +242,12 @@ input, select, textarea {
 
 		}
 
+		@media  (max-width: 657px) {
+			.vid {
+			   width: 100%;
+			}
+		 }
+
 		@media screen and (max-width: 1280px) {
 
 			.container {
