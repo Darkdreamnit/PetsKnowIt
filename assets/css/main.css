@@ -215,7 +215,7 @@ input, select, textarea {
 		text-align: justify;
 		margin-bottom: 0.8em;
 		font-color: #656565;
-		font-family: Open Sans;
+		font-family: inherit;
 	}
 
 	ol, dl, table, blockquote {
