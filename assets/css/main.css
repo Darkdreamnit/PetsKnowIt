@@ -1518,6 +1518,11 @@ img {
     height: auto;
 }
 
+img.imgcentre {
+	display: block;
+    margin: 0 auto;
+}
+
 	.image {
 		-moz-transition: opacity 0.25s ease-in-out;
 		-webkit-transition: opacity 0.25s ease-in-out;
