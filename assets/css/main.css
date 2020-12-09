@@ -3215,6 +3215,12 @@ div.soup p{
     }
  }
 
+ @media (max-width: 657px) {
+     table {
+       width: 80%;
+    }
+ }
+
 
 .column2li ul {
 columns: 2;
