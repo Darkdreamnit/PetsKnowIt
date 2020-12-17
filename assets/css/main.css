@@ -3117,6 +3117,10 @@ div.soup p{
 	float:left;
 	margin: 10px;
 }
+
+.textp {
+	clear: left;
+}
 .floatright {
     float:right;
 }
@@ -3239,8 +3243,6 @@ align-items: center;
 	-webkit-columns: 3;
 	-moz-columns: 3;
 	}
-
-
 
 
 
