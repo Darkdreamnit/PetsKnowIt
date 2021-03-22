@@ -54,6 +54,10 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+p.laneisha {
+	color:red;
+}
+
 mark {
 	background-color: transparent;
 	color: inherit;
