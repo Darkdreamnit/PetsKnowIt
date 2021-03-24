@@ -114,5 +114,12 @@
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://www.petsknowit.com/hypoallergenic-dogs</loc>
+    <lastmod>2021-03-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
   
 </urlset>
